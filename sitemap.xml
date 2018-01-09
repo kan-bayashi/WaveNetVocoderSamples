@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://kan-bayashi.github.io/WaveNetVocoderSamples/</loc>
     <lastmod>2018-01-09T19:18:54+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://kan-bayashi.github.io/WaveNetVocoderSamples/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://kan-bayashi.github.io/WaveNetVocoderSamples/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://kan-bayashi.github.io/WaveNetVocoderSamples/</loc>
     <lastmod>2018-01-09T19:18:54+09:00</lastmod>
     <priority>0</priority>
   </url>
