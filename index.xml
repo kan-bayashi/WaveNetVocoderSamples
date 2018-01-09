@@ -17,9 +17,20 @@
       <pubDate>Tue, 09 Jan 2018 19:18:54 +0900</pubDate>
       
       <guid>https://kan-bayashi.github.io/WaveNetVocoderSamples/</guid>
-      <description>Overview Audio samples Your browser does not support the audio element. 
-Audio examples are in wav/&amp;lt;speaker_name&amp;gt;/&amp;lt;method&amp;gt;/arctic_&amp;lt;utt_id&amp;gt;.wav
- &amp;lt;speaker_id&amp;gt;: the name of speaker in CMU Arctic database  bdl,rms: male speaker slt, clb: female speaker  &amp;lt;method&amp;gt; : the name of method  raw: target speech straight: the conventional vocoder with F0, straight-melcep, aperiodicity sd: the speaker-dependent WaveNet vocoder sc_close: the WaveNet vocoder with speaker-code trained using utterances of all of the speakers si_close: the WaveNet vocoder trained using utterances of all of the speakers si_open: the WaveNet vocoder trained using utterances of all of the speakers except for evaluation speakers   Subjective Evaluation Result  #evaluation speakers=4 and #evaluation utts per speaker=40 #subjects=9 and #evaluation utts per subject=120  Reference @article{hayashi2018sp, title={複数話者WaveNetボコーダに関する調査}.</description>
+      <description>Overview Audio samples RAW bdl
+Your browser does not support the audio element. 
+rms
+Your browser does not support the audio element. 
+clb
+Your browser does not support the audio element. 
+slt
+Your browser does not support the audio element. 
+SD WaveNet Vocoder bdl
+Your browser does not support the audio element. 
+rms
+Your browser does not support the audio element. 
+clb
+Your browser does not support the audio element.</description>
     </item>
     
   </channel>
