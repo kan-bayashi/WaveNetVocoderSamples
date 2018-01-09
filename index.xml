@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WaveNet Vocoder Samples</title>
+    <link>http://example.org/</link>
+    <description>Recent content on WaveNet Vocoder Samples</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 19:18:54 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/</link>
+      <pubDate>Tue, 09 Jan 2018 19:18:54 +0900</pubDate>
+      
+      <guid>http://example.org/</guid>
+      <description>Audio samples Audio examples are in wav/&amp;lt;speaker_name&amp;gt;/&amp;lt;method&amp;gt;/arctic_&amp;lt;utt_id&amp;gt;.wav
+ &amp;lt;speaker_id&amp;gt;: the name of speaker in CMU Arctic database  bdl,rms: male speaker slt, clb: female speaker  &amp;lt;method&amp;gt; : the name of method  raw: target speech straight: the conventional vocoder with F0, straight-melcep, aperiodicity sd: the speaker-dependent WaveNet vocoder sc_close: the WaveNet vocoder with speaker-code trained using utterances of all of the speakers si_close: the WaveNet vocoder trained using utterances of all of the speakers si_open: the WaveNet vocoder trained using utterances of all of the speakers except for evaluation speakers   Subjective Evaluation Result  #evaluation speakers=4 and #evaluation utts per speaker=40 #subjects=9 and #evaluation utts per subject=120  Reference @article{hayashi2018sp, title={複数話者WaveNetボコーダに関する調査}.</description>
+    </item>
+    
+  </channel>
+</rss>
